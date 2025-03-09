@@ -1,8 +1,8 @@
 # Rafael D0linski  
 
 ## 🔥 Minhas Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelD0lonski&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0lonski&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=radical)
 
 ## 🚀 Tecnologias que uso  
 
