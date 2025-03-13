@@ -19,4 +19,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldolinski14@gmail.com)  
 
 ## 🔥 Contribuições  
-[![GitHub Streak](https://streak-stats.demolab.com?user=RafaelD0lonski&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
