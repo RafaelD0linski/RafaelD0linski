@@ -25,24 +25,6 @@
   </span>
 </p>
 
-
-## 📊 Estatísticas Extras
-
-![Commits](https://img.shields.io/github/commit-activity/y/RafaelD0linski?style=for-the-badge&logo=github)
-![PRs](https://img.shields.io/github/issues-pr/RafaelD0linski?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/RafaelD0linski?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/github/repos/RafaelD0linski?style=for-the-badge&logo=github)
-
-
-## 💻 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|-------------|------|
-| Sistema de Gestão Hospitalar | Sistema para controle de pacientes, prontuários e agendamentos | C#, Windows Forms, SQL Server | [GitHub](https://github.com/RafaelD0linski/SistemaGestaoHospitalar) |
-| Pokédex React | Pokédex estilizada com React, consumindo API pública | ReactJS, API REST | [GitHub](https://github.com/RafaelD0linski/PokedexReact) |
-| API para RPG | Backend API para jogo RPG com gerenciamento de personagens | Python, FastAPI, PostgreSQL | [GitHub](https://github.com/RafaelD0linski/RPGApi) |
-
-
 ## 📫 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldolinski)  
@@ -60,15 +42,3 @@
 - APIs RESTful com FastAPI
 - Testes automatizados em C#
 - Clean Code e boas práticas
-
-## ⚡ Curiosidades
-
-- 🚀 Entusiasta de games e RPGs
-- 📚 Leitor ávido de livros técnicos e ficção científica
-- 🎧 Apaixonado por música e podcasts sobre tecnologia
-
-
-*“A melhor forma de aprender é fazendo.”*
-
-
-Se quiser, posso ajudar a gerar screenshots para o seu projeto ou criar um GIF animado de introdução também. Quer?
