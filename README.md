@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=github_dark&count_private=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=github_dark&hide_title=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=RafaelD0linski&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=RafaelD0linski&theme=dark&hide_border=true&short_numbers=true&mode=weekly)
 
 > ⚠️ O badge de streak pode não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.
 
