@@ -1,16 +1,19 @@
 # Rafael D0linski  
 
 ## 🔥 Minhas Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=github_dark&count_private=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=github_dark&hide_title=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelD0linski&theme=dark)
+
 
 ## 🚀 Tecnologias que uso  
 
 <p align="left">
   <span>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows" />
-    <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi" />
+    <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   </span><br>
   <span>
@@ -23,12 +26,49 @@
 </p>
 
 
+## 📊 Estatísticas Extras
+
+![Commits](https://img.shields.io/github/commit-activity/y/RafaelD0linski?style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/github/issues-pr/RafaelD0linski?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/RafaelD0linski?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/github/repos/RafaelD0linski?style=for-the-badge&logo=github)
+
+
+## 💻 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|-------------|------|
+| Sistema de Gestão Hospitalar | Sistema para controle de pacientes, prontuários e agendamentos | C#, Windows Forms, SQL Server | [GitHub](https://github.com/RafaelD0linski/SistemaGestaoHospitalar) |
+| Pokédex React | Pokédex estilizada com React, consumindo API pública | ReactJS, API REST | [GitHub](https://github.com/RafaelD0linski/PokedexReact) |
+| API para RPG | Backend API para jogo RPG com gerenciamento de personagens | Python, FastAPI, PostgreSQL | [GitHub](https://github.com/RafaelD0linski/RPGApi) |
+
 
 ## 📫 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldolinski)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaeldolinski14@gmail.com)
+
 
 ## 💬 Sobre mim  
 
 🎓 Desenvolvedor apaixonado por tecnologia e soluções criativas. Buscando evoluir sempre, colaborando em projetos e aprendendo com desafios reais.
+
+
+## 🎯 Atualmente estudando
+
+- React avançado e hooks
+- APIs RESTful com FastAPI
+- Testes automatizados em C#
+- Clean Code e boas práticas
+
+## ⚡ Curiosidades
+
+- 🚀 Entusiasta de games e RPGs
+- 📚 Leitor ávido de livros técnicos e ficção científica
+- 🎧 Apaixonado por música e podcasts sobre tecnologia
+
+
+*“A melhor forma de aprender é fazendo.”*
+
+
+Se quiser, posso ajudar a gerar screenshots para o seu projeto ou criar um GIF animado de introdução também. Quer?
