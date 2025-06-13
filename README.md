@@ -6,7 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=github_dark&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafaelD0linski&theme=dark)
 
-)
 > ⚠️ O badge de streak pode não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.
 
 
