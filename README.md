@@ -3,7 +3,10 @@
 ## 🔥 Minhas Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=github_dark&count_private=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=github_dark&hide_title=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafaelD0linski&theme=dark&hide_border=true&short_numbers=true&mode=weekly&card_width=400&card_height=170&type=png)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=dark&hide_border=true&short_numbers=true&mode=weekly" width="400"/>
+</a>
+
 
 > ⚠️ O badge de streak pode não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.
 
