@@ -16,9 +16,9 @@
 </div>
 
 
-## 🚀 Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&langs_count=5&theme=tokyonight)
+
+![Linguagens mais usadas](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/caminho/da/imagem.png)
 
 ---
 
