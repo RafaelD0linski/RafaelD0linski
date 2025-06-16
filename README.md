@@ -47,7 +47,7 @@
 
 ## 🎯 Atualmente estudando
 
-- React avançado e hooks
-- APIs RESTful com FastAPI
-- Testes automatizados em C#
-- Clean Code e boas práticas
+- React avançado e hooks.
+- APIs RESTful com FastAPI.
+- Testes automatizados em C#.
+- Clean Code e boas práticas.
