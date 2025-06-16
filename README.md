@@ -12,7 +12,7 @@
 <br />
 
 <!-- Streak (contribuições contínuas) -->
-<img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=github-dark" width="400" />
+<img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=?theme=default" width="400" />
 
 
   ⚠️ <sub>O badge de streak pode não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
