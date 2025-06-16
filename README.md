@@ -4,11 +4,16 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=github_dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=github_dark" width="304" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=github_dark" width="400" />
-  <br />
+<!-- Estatísticas gerais -->
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=github_dark" width="400" />
+
+<!-- Linguagens mais usadas -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=github_dark" width="304" />
+<br />
+
+<!-- Streak (contribuições contínuas) -->
+<img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=github-dark" width="400" />
+
 
   ⚠️ <sub>O badge de streak pode não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
 
