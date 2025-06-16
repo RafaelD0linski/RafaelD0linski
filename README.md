@@ -18,15 +18,15 @@
 
 ## 🚀 Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=5&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&langs_count=5&theme=tokyonight)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=tokyonight)
 
-![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
+![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=RafaelD0linski&theme=tokyonight)
 
 --
 
