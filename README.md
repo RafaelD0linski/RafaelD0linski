@@ -15,21 +15,6 @@
 
 </div>
 
-
-
-
-![Linguagens mais usadas](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/caminho/da/imagem.png)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=tokyonight)
-
-![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=RafaelD0linski&theme=tokyonight)
-
---
-
 ## 🚀 Tecnologias que uso  
 <p align="left" style="line-height: 0;">
   <!-- Primeira linha -->
