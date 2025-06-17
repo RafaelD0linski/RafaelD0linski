@@ -1,16 +1,4 @@
 # Rafael D0linski  
-## 💬 Sobre mim  
-
-🎓 Desenvolvedor apaixonado por tecnologia e soluções criativas. Buscando evoluir sempre, colaborando em projetos e aprendendo com desafios reais.
-
-
-## 🎯 Atualmente estudando
-
-- React avançado e hooks.
-- APIs RESTful com FastAPI.
-- Testes automatizados em C#.
-- Clean Code e boas práticas.
-
 ## 🧠 Tecnologias que uso
 
 ### 🎨 Front-end
@@ -68,6 +56,17 @@
   
 </div>
 
+## 💬 Sobre mim  
+
+🎓 Desenvolvedor apaixonado por tecnologia e soluções criativas. Buscando evoluir sempre, colaborando em projetos e aprendendo com desafios reais.
+
+
+## 🎯 Atualmente estudando
+
+- React avançado e hooks.
+- APIs RESTful com FastAPI.
+- Testes automatizados em C#.
+- Clean Code e boas práticas.
 
 ## 📫 Contato  
 
