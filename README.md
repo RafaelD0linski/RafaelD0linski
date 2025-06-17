@@ -24,12 +24,12 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank">
+<!--   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Forms" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
