@@ -11,24 +11,6 @@
 - Testes automatizados em C#.
 - Clean Code e boas práticas.
 
-## 🔥 Minhas Estatísticas
-
-<div align="center">
-
-  <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=radical" width="400" />
-
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=radical" width="304" />
-  <br />
-
-  <!-- Streak (contribuições contínuas) -->
-  <img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=radical" width="400" />
-
-  ⚠️ <sub>O badge de streak pode não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
-  
-</div>
-
 ## 🧠 Tecnologias que uso
 
 ### 🎨 Front-end
@@ -66,6 +48,26 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 </p>
+
+
+## 🔥 Minhas Estatísticas
+
+<div align="center">
+
+  <!-- Estatísticas gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&theme=radical" width="400" />
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&theme=radical" width="304" />
+  <br />
+
+  <!-- Streak (contribuições contínuas) -->
+  <img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=radical" width="400" />
+
+  ⚠️ <sub>O badge de streak pode não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
+  
+</div>
+
 
 ## 📫 Contato  
 
