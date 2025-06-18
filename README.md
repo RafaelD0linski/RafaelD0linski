@@ -21,13 +21,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" width="304" />
   </picture>
 
-  <!-- Streak (contribuições contínuas) -->
-<picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=darkhub&margin-w=10&no-bg=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=flat&margin-w=10&no-bg=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=flat&margin-w=10&no-bg=true" width="100%" />
-</picture>
-
 
 <picture>
   <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
