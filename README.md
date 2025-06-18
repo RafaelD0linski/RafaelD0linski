@@ -30,9 +30,6 @@
   ⚠️ <sub>Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
 </div>
 
-
-## 🧠 Tecnologias que uso 
-
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="display:inline-block;margin:4px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="display:inline-block;margin:4px;"/></a>
