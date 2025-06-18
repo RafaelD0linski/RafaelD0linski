@@ -7,8 +7,6 @@
   Buscando evoluir sempre, colaborando em projetos e aprendendo com desafios reais.</i>
 </p>
 
-## 🔥 Minhas Estatísticas
-
 <div align="center">
 
   <!-- Estatísticas gerais -->
@@ -25,11 +23,9 @@
   
 </div>
 
-
 ## 🧠 Tecnologias que uso
 
-
-<p align="left">
+<div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -54,28 +50,23 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-</p>
-
-
-## 💬 Sobre mim  
-
-🎓 Desenvolvedor apaixonado por tecnologia e soluções criativas. Buscando evoluir sempre, colaborando em projetos e aprendendo com desafios reais.
-
+</div>
 
 ## 🎯 Atualmente estudando
 
-- React avançado e hooks.
-- APIs RESTful com FastAPI.
-- Testes automatizados em C#.
-- Clean Code e boas práticas.
+- React avançado e hooks.  
+- APIs RESTful com FastAPI.  
+- Testes automatizados em C#.  
+- Clean Code e boas práticas.  
 
 ## 📫 Contato  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:rafaeldolinski14@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
+</p>
 </p>
