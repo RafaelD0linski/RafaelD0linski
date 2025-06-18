@@ -29,16 +29,6 @@
 </picture>
 
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/RafaelD0linski/RafaelD0linski/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://raw.githubusercontent.com/RafaelD0linski/RafaelD0linski/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://raw.githubusercontent.com/RafaelD0linski/RafaelD0linski/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-
-
-
-
 
   ⚠️ <sub>Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
 </div>
