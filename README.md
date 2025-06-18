@@ -31,7 +31,6 @@
   ⚠️ <sub>Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
 </div>
 
----
 
 ## 🧠 Tecnologias que uso
 
@@ -46,7 +45,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block;margin:4px;"/></a>
 </div>
 
----
 
 ## 🎯 Atualmente estudando
 
@@ -55,7 +53,6 @@
 - Testes automatizados em C#  
 - Clean Code e boas práticas  
 
----
 
 ## 📫 Contato
 
