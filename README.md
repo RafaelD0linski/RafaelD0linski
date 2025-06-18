@@ -1,5 +1,12 @@
 # Rafael D0linski  
 
+<h1 align="center">👨‍💻 Rafael D0linski</h1>
+
+<p align="center">
+  <i>Desenvolvedor apaixonado por tecnologia e soluções criativas.<br>
+  Buscando evoluir sempre, colaborando em projetos e aprendendo com desafios reais.</i>
+</p>
+
 ## 🔥 Minhas Estatísticas
 
 <div align="center">
