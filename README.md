@@ -41,14 +41,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block;margin:4px;"/></a>
 </div>
 
-
-## 🎯 Atualmente estudando
-
-- React avançado e hooks  
-- APIs RESTful com FastAPI  
-- Testes automatizados em C#  
-- Clean Code e boas práticas  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
   <a href="mailto:rafaeldolinski14@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/></a>
