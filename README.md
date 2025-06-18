@@ -36,11 +36,7 @@
 </picture>
 
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rafaeld0linski&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rafaeld0linski&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaeld0linski&theme=default&hide_border=true" width="400" />
-</picture>
+
 
 
 
