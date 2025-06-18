@@ -27,12 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&theme=default" width="100%"/>
 </picture>
 
-<picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=darkhub&margin-w=10&no-bg=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=flat&margin-w=10&no-bg=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=flat&margin-w=10&no-bg=true" width="100%" />
-</picture>
-
   ⚠️ <sub>Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
 </div>
 
