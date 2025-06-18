@@ -25,7 +25,7 @@
   <picture>
     <source srcset="https://streak-stats.demolab.com?user=RafaelD0linski&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
     <source srcset="https://streak-stats.demolab.com?user=RafaelD0linski&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://streak-stats.demolab.com?user=RafaelD0linski&hide_border=true&theme=default" width="400" />
+    <img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=radical&hide_border=true" width="400" />
   </picture>
 
   ⚠️ <sub>Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
