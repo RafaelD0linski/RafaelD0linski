@@ -31,7 +31,7 @@
 </div>
 
 
-<div align="center"> ## 🧠 Tecnologias que uso </div>
+## 🧠 Tecnologias que uso 
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="display:inline-block;margin:4px;"/></a>
@@ -51,9 +51,6 @@
 - APIs RESTful com FastAPI  
 - Testes automatizados em C#  
 - Clean Code e boas práticas  
-
-
-## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
