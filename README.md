@@ -22,9 +22,15 @@
   </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rafaeld0linski&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rafaeld0linski&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaeld0linski&theme=default&hide_border=true" width="400" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&theme=default" width="100%"/>
+</picture>
+
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=darkhub&margin-w=10&no-bg=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=flat&margin-w=10&no-bg=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RafaelD0linski&theme=flat&margin-w=10&no-bg=true" width="100%" />
 </picture>
 
   ⚠️ <sub>Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
