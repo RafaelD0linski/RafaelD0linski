@@ -22,9 +22,11 @@
   </picture>
 
   <!-- Streak (contribuições contínuas) -->
-  <picture>
-    <img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=radical" width="400" />
-  </picture>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide=prs&hide_border=true&count_private=true&theme=radical" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide=prs&hide_border=true&count_private=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide=prs&hide_border=true&count_private=true&theme=default" width="400" />
+</picture>
 
   ⚠️ <sub>Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
 </div>
