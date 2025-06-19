@@ -1,41 +1,25 @@
 <h1 align="center">👨‍💻 Rafael D0linski</h1>
 
 <p align="center">
-  <i>Desenvolvedor apaixonado por tecnologia e soluções criativas.<br>
-  Buscando evoluir sempre, colaborando em projetos e aprendendo com desafios reais.</i>
+  <i>Desenvolvedor apaixonado por tecnologia, criatividade e soluções que fazem a diferença.<br>
+  Sempre buscando crescer, aprender e contribuir em projetos reais e significativos.</i>
 </p>
-
-<div align="center">
-  <!-- Estatísticas -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" width="400" />
-  </picture>
-
-  <!-- Linguagens -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" width="304" />
-  </picture>
-
-  <!-- Gráfico de atividades -->
-  <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&theme=default" width="90%"/>
-  </picture>
-
-  <sub>⚠️ Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
-</div>
 
 ---
 
-### 🧠 Tecnologias que uso
+### 🧾 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência prática em **desenvolvimento fullstack**, com foco em soluções modernas, acessíveis e com impacto real. Atualmente, atuo como desenvolvedor utilizando tecnologias como **C#**, **React**, **Node.js** e **Python**, além de trabalhar com **APIs REST**, bancos de dados como **PostgreSQL**, e boas práticas como **Clean Code**, **arquitetura SOLID** e testes automatizados.
+
+Já participei de **projetos sociais e educacionais**, como o desenvolvimento de uma plataforma para trilhas ecológicas com foco em **saúde mental de adolescentes em situação de vulnerabilidade**, e também de **hackathons**, buscando resolver problemas do mundo real com tecnologia.
+
+Tenho como objetivo profissional atuar como desenvolvedor no exterior, mantendo sempre um ritmo contínuo de aprendizado e evolução técnica.
+
+---
+
+### 🚀 Tecnologias que uso
 
 <div align="center">
-  <!-- Seus ícones com padding uniforme -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin:4px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin:4px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin:4px;"/></a>
@@ -51,8 +35,34 @@
 ### 📚 Atualmente estudando
 
 <p align="center"><i>
-React avançado e hooks · APIs RESTful com FastAPI · Testes automatizados em C# · Clean Code e boas práticas
+React avançado com hooks e context · FastAPI com Python · Testes automatizados em C# · Clean Code e boas práticas de arquitetura · Design acessível e responsivo
 </i></p>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" width="400" />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" width="304" />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&theme=default" width="90%"/>
+  </picture>
+
+  <sub>⚠️ Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
+</div>
 
 ---
 
