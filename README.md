@@ -23,15 +23,6 @@
   <sub>⚠️ Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
 </div>
 
-### 🧾 Sobre mim
-
-Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência prática em **desenvolvimento fullstack**, com foco em soluções modernas, acessíveis e com impacto real. Atualmente, atuo como desenvolvedor utilizando tecnologias como **C#**, **React**, **Node.js** e **Python**, além de trabalhar com **APIs REST**, bancos de dados como **PostgreSQL**, e boas práticas como **Clean Code**, **arquitetura SOLID** e testes automatizados.
-
-Já participei de **projetos sociais e educacionais**, como o desenvolvimento de uma plataforma para trilhas ecológicas com foco em **saúde mental de adolescentes em situação de vulnerabilidade**, e também de **hackathons**, buscando resolver problemas do mundo real com tecnologia.
-
-Tenho como objetivo profissional atuar como desenvolvedor no exterior, mantendo sempre um ritmo contínuo de aprendizado e evolução técnica.
-
-
 ### 🚀 Tecnologias que uso
 
 <div align="center">
