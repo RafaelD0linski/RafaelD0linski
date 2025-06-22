@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Desenvolvedor apaixonado por tecnologia e soluções criativas.<br>
-  Buscando evoluir sempre, colaborando em projetos e aprendendo com desafios reais.</i>
+  Buscando evoluir sempre, colaborando em projetos e desafios reais.</i>
 </p>
 
 <div align="center">
