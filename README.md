@@ -20,13 +20,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" width="304" />
   </picture>
 
-  <!-- Gráfico de atividades -->
-  <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelD0linski&theme=default" width="90%"/>
-  </picture>
-
   <sub>⚠️ Os badges podem não carregar corretamente às vezes por instabilidade do servidor. Tente atualizar ou voltar depois.</sub>
 </div>
 
