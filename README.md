@@ -37,17 +37,9 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin:4px;"/></a>
 </div>
 
----
-
-### 📚 Atualmente estudando
-
 <p align="center"><i>
 Aprofundando conhecimentos em Git, GitHub e boas práticas de versionamento para projetos profissionais.
 </i></p>
-
----
-
-### 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
