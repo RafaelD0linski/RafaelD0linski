@@ -42,7 +42,7 @@
 ### 📚 Atualmente estudando
 
 <p align="center"><i>
-React avançado e hooks · APIs RESTful com FastAPI · Testes automatizados em C# · Clean Code e boas práticas
+Aprofundando conhecimentos em Git, GitHub e boas práticas de versionamento para projetos profissionais.
 </i></p>
 
 ---
