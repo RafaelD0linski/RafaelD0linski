@@ -46,10 +46,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="E-mail" />
   </a> &nbsp;
   <a href="https://wa.me/5546991382310" target="_blank" title="WhatsApp">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40" alt="WhatsApp" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" alt="WhatsApp" />
   </a>
 </p>
 
 <p align="center"><i>
 Aprofundando conhecimentos em Git, GitHub e boas práticas de versionamento para projetos profissionais.
 </i></p>
+
