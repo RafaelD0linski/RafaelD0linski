@@ -51,5 +51,5 @@
 </div>
 
 <p align="center"><i>
-Aprofundando conhecimentos em Git, GitHub e boas práticas de versionamento para projetos profissionais.
+Aprofundando conhecimentos em Git, GitHub e boas práticas de versionamento.
 </i></p>
