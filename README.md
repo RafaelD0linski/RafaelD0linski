@@ -23,17 +23,12 @@
   <sub>⚡ Stats carregam conforme o servidor da Vercel. Se não aparecerem, atualize a página.</sub>
 </div>
 
----
 
 ### 🧠 Stack Tecnológica
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,cs,nodejs,python,postgresql,git,github" />
 </p>
-<p align="center">
-  Domínio em desenvolvimento web e mobile, com foco em boas práticas, performance e experiência do usuário.
-</p>
 
----
 
 ### 🌍 Onde me encontrar
 <div align="center">
@@ -52,15 +47,7 @@
 
 ### 🚀 Principais Projetos
 <div align="center">
-
-- **[Projeto 1: Nome do Projeto](link_projeto1)**  
-  Descrição breve: Uma aplicação que resolve [problema X] usando React e Node.js, com foco em performance e escalabilidade.
-
-- **[Projeto 2: Nome do Projeto](link_projeto2)**  
-  Descrição breve: App mobile em Flutter que permite [ação Y], integrando Firebase e seguindo boas práticas de UI/UX.
-
-- **[Projeto 3: Nome do Projeto](link_projeto3)**  
-  Descrição breve: Sistema completo em Python e PostgreSQL para [função Z], com dashboards interativos e relatórios automatizados.
+    
 
 </div>
 
