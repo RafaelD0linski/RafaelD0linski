@@ -41,16 +41,15 @@
   </a>
 </div>
 
-
 <h2 align="center">🌍 Onde me encontrar</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
-  <a href="mailto:rafaeldolinski14@gmail.com" target="_blank">
+  <a href="mailto:rafaeldolinski14@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="E-mail" />
   </a>
-  <a href="https://wa.me/5546991382310" target="_blank">
+  <a href="https://wa.me/5546991382310" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="50" alt="WhatsApp" />
   </a>
 </div>
