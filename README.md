@@ -24,24 +24,25 @@
 </div>
 
 
-### 🧠 Stack Tecnológica
+<h2 align="center">🧠 Stack Tecnológica</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,cs,nodejs,python,postgresql,git,github" />
 </p>
 
-### 🚀 Principais Projetos  
 
+<h2 align="center">🚀 Principais Projetos</h2>
 <div align="center">
   <p>
     Você pode acompanhar meus principais projetos no meu site pessoal.<br>
     <b>⚠️ O site ainda está em construção</b>, mas já é possível conferir alguns trabalhos em andamento.
   </p>
   <a href="https://principais-porjetos.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20meus%20projetos-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Meus Projetos" />
+    <img src="https://img.shields.io/badge/🚀 Acessar meus projetos-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Meus Projetos" />
   </a>
 </div>
 
-### 🌍 Onde me encontrar
+
+<h2 align="center">🌍 Onde me encontrar</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
