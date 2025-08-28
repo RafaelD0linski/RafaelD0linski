@@ -29,6 +29,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,cs,nodejs,python,postgresql,git,github" />
 </p>
 
+### 🚀 Principais Projetos  
+
+<div align="center">
+  <p>
+    Você pode acompanhar meus principais projetos no meu site pessoal.<br>
+    <b>⚠️ O site ainda está em construção</b>, mas já é possível conferir alguns trabalhos em andamento.
+  </p>
+  <a href="https://principais-porjetos.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20meus%20projetos-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Meus Projetos" />
+  </a>
+</div>
 
 ### 🌍 Onde me encontrar
 <div align="center">
@@ -42,21 +53,6 @@
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="50" alt="WhatsApp" />
   </a>
 </div>
-
-
-### 🚀 Principais Projetos  
-
-<div align="center">
-  <p>
-    Você pode acompanhar meus principais projetos no meu site pessoal.<br>
-    <b>⚠️ O site ainda está em construção</b>, mas já é possível conferir alguns trabalhos em andamento.
-  </p>
-  <a href="https://principais-porjetos.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20meus%20projetos-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Meus Projetos" />
-  </a>
-</div>
-
-
 
 <p align="center">
   <i>Sempre explorando novas ferramentas, aprimorando boas práticas em Git e versionamento, e buscando criar soluções que impactem positivamente o dia a dia das pessoas.</i>
