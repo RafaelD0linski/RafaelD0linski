@@ -5,7 +5,6 @@
   Sempre em evolução, colaborando em projetos reais e desafiadores.</i>
 </p>
 
----
 
 <div align="center">
 
@@ -28,15 +27,11 @@
 
 </div>
 
----
-
 ### 🧠 Stack Tecnológica
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,nodejs,python,postgresql,git,github" />
 </div>
-
----
 
 ### 🌍 Onde me encontrar
 
@@ -52,7 +47,6 @@
   </a>
 </div>
 
----
 
 <p align="center"><i>
 Sempre explorando novas ferramentas e aprimorando boas práticas em Git e versionamento.
