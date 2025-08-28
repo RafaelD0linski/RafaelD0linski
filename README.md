@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Desenvolvedor apaixonado por tecnologia e soluções criativas.<br>
-  Sempre em evolução, colaborando em projetos reais e desafiadores.</i>
+  Sempre em evolução, explorando novas ferramentas e colaborando em projetos reais e desafiadores.</i>
 </p>
 
 <div align="center">
@@ -23,10 +23,17 @@
   <sub>⚡ Stats carregam conforme o servidor da Vercel. Se não aparecerem, atualize a página.</sub>
 </div>
 
+---
+
 ### 🧠 Stack Tecnológica
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,cs,nodejs,python,postgresql,git,github" />
-</div>
+</p>
+<p align="center">
+  Domínio em desenvolvimento web e mobile, com foco em boas práticas, performance e experiência do usuário.
+</p>
+
+---
 
 ### 🌍 Onde me encontrar
 <div align="center">
@@ -41,6 +48,24 @@
   </a>
 </div>
 
+---
+
+### 🚀 Principais Projetos
+<div align="center">
+
+- **[Projeto 1: Nome do Projeto](link_projeto1)**  
+  Descrição breve: Uma aplicação que resolve [problema X] usando React e Node.js, com foco em performance e escalabilidade.
+
+- **[Projeto 2: Nome do Projeto](link_projeto2)**  
+  Descrição breve: App mobile em Flutter que permite [ação Y], integrando Firebase e seguindo boas práticas de UI/UX.
+
+- **[Projeto 3: Nome do Projeto](link_projeto3)**  
+  Descrição breve: Sistema completo em Python e PostgreSQL para [função Z], com dashboards interativos e relatórios automatizados.
+
+</div>
+
+---
+
 <p align="center">
-  <i>Sempre explorando novas ferramentas e aprimorando boas práticas em Git e versionamento.</i>
+  <i>Sempre explorando novas ferramentas, aprimorando boas práticas em Git e versionamento, e buscando criar soluções que impactem positivamente o dia a dia das pessoas.</i>
 </p>
