@@ -54,7 +54,3 @@
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="50" alt="WhatsApp" />
   </a>
 </div>
-
-<p align="center">
-  <i>Sempre explorando novas ferramentas, aprimorando boas práticas em Git e versionamento, e buscando criar soluções que impactem positivamente o dia a dia das pessoas.</i>
-</p>
