@@ -23,6 +23,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" width="320" />
 </picture>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelD0linski&theme=radical)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RafaelD0linski&theme=react-dark)](https://github.com/RafaelD0linski)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=normal&theme=radical)
+
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=false&theme=radical&count_private=true)
+
+
 <br>
 <sub>⚡ Stats carregam conforme o servidor da Vercel, se não aparecerem atualize a página.</sub>
 
