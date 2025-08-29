@@ -23,11 +23,18 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center">
         <picture>
           <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
           <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=default" width="320" />
+        </picture>
+      </td>
+      <td align="center">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=default&hide_border=true" width="320" />
         </picture>
       </td>
     </tr>
@@ -35,7 +42,6 @@
   <br>
   <sub>⚡ As estatísticas podem demorar um pouco para carregar ou atualizar.</sub>
 </div>
-
   <!-- Linguagens mais usadas -->
 <h2 align="center">🧠 Stack Tecnológica</h2>
 
