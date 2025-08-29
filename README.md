@@ -5,38 +5,38 @@
 </p>
 
 <div align="center">
-  <!-- Estatísticas do GitHub -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" width="420" />
-  </picture>
-    <picture>
-    <source srcset="https://streak-stats.demolab.com?user=RafaelD0linski&theme=radical&hide_border=true&locale=pt_BR" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com?user=RafaelD0linski&theme=default&hide_border=true&locale=pt_BR" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=default&hide_border=true&locale=pt_BR" width="420" />
-  </picture>
-    <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=default" width="320" />
-  </picture>
-  <br>
-  <sub>⚡ As estatísticas podem demorar um pouco para carregar ou atualizar.</sub>
+  <table align="center">
+    <tr>
+      <td>
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" width="420" />
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source srcset="https://streak-stats.demolab.com?user=RafaelD0linski&theme=radical&hide_border=true&locale=pt_BR" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://streak-stats.demolab.com?user=RafaelD0linski&theme=default&hide_border=true&locale=pt_BR" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://streak-stats.demolab.com?user=RafaelD0linski&theme=default&hide_border=true&locale=pt_BR" width="420" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&hide_border=true&theme=default" width="320" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <sub>⚡ As estatísticas podem demorar um pouco para carregar ou atualizar.</sub>
 </div>
-
-  
 
   <!-- Linguagens mais usadas -->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" width="320" />
-  </picture>
-  <br>
-  <sub>⚡ Stats carregam conforme o servidor da Vercel. Se não aparecerem, atualize a página.</sub>
-</div>
-
 <h2 align="center">🧠 Stack Tecnológica</h2>
 
 <div align="center">
