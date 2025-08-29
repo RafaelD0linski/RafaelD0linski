@@ -44,7 +44,6 @@
 <div align="center">
   <p>
     Você pode acompanhar meus principais projetos no meu site pessoal.<br>
-    <b>⚠️ O site ainda está em construção</b>, mas já é possível conferir alguns trabalhos em andamento.
   </p>
   <a href="https://principais-porjetos.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Acessar meus projetos-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Meus Projetos" />
