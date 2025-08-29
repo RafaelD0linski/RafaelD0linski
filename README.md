@@ -37,9 +37,6 @@
 [<img src="https://skillicons.dev/icons?i=jira" />](https://www.atlassian.com/software/jira)
 
 </div>
-
-
-
 <h2 align="center">🚀 Principais Projetos</h2>
 <div align="center">
   <p>
