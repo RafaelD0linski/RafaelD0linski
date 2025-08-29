@@ -24,8 +24,44 @@
 
 <h2 align="center">🧠 Stack Tecnológica</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,postgresql,github,figma,git,cs" />
+  <!-- Flutter -->
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+  <!-- Dart -->
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" />
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgresql" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <!-- C# -->
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+  <!-- .NET -->
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jira" />
+  </a>
 </p>
+
 
 <h2 align="center">🚀 Principais Projetos</h2>
 <div align="center">
