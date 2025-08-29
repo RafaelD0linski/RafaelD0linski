@@ -32,9 +32,9 @@
       </td>
       <td align="center">
         <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=default&hide_border=true" width="320" />
+          <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelD0linski&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelD0linski&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelD0linski&theme=default&hide_border=true" width="320" />
         </picture>
       </td>
     </tr>
