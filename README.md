@@ -25,40 +25,40 @@
 <h2 align="center">🧠 Stack Tecnológica</h2>
 <p align="center">
   <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=flutter" />
+  <a href="https://flutter.dev/" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=flutter" /></span>
   </a>
   <!-- Dart -->
-  <a href="https://dart.dev/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=dart" />
+  <a href="https://dart.dev/" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=dart" /></span>
   </a>
   <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=postgresql" />
+  <a href="https://www.postgresql.org/" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=postgresql" /></span>
   </a>
   <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=github" /></span>
   </a>
   <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=figma" />
+  <a href="https://www.figma.com/" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=figma" /></span>
   </a>
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=git" />
+  <a href="https://git-scm.com/" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=git" /></span>
   </a>
   <!-- C# -->
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=cs" />
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=cs" /></span>
   </a>
   <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=dotnet" /></span>
   </a>
   <!-- Jira -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=jira" />
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <span><img src="https://skillicons.dev/icons?i=jira" /></span>
   </a>
 </p>
 
