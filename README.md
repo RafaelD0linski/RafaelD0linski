@@ -1,5 +1,4 @@
 <h1 align="center">👨‍💻 Rafael D0linski</h1>
-
 <p align="center">
   <i>Desenvolvedor apaixonado por tecnologia e soluções criativas.<br>
   Sempre em evolução, explorando novas ferramentas e colaborando em projetos reais e desafiadores.</i>
@@ -23,12 +22,10 @@
   <sub>⚡ Stats carregam conforme o servidor da Vercel. Se não aparecerem, atualize a página.</sub>
 </div>
 
-
 <h2 align="center">🧠 Stack Tecnológica</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,cs,nodejs,python,postgresql,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,cs,postgresql,git,github" />
 </p>
-
 
 <h2 align="center">🚀 Principais Projetos</h2>
 <div align="center">
@@ -41,6 +38,15 @@
   </a>
 </div>
 
-<h2 align="center">🌍 Onde me encontrar</h2> <div align="center"> <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" /> </a> <a href="mailto:rafaeldolinski14@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="E-mail" /> </a> <a href="https://wa.me/5546991382310" target="_blank"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="50" alt="WhatsApp" /> </a> </div>
-
+<h2 align="center">🌍 Onde me encontrar</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-dolinski/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rafaeldolinski14@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="E-mail" />
+  </a>
+  <a href="https://wa.me/5546991382310" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="50" alt="WhatsApp" />
+  </a>
 </div>
