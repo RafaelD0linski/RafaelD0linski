@@ -24,42 +24,17 @@
 
 <h2 align="center">🧠 Stack Tecnológica</h2>
 <p align="center">
-  <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=flutter" /></span>
-  </a>
-  <!-- Dart -->
-  <a href="https://dart.dev/" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=dart" /></span>
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=postgresql" /></span>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=github" /></span>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=figma" /></span>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=git" /></span>
-  </a>
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=cs" /></span>
-  </a>
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=dotnet" /></span>
-  </a>
-  <!-- Jira -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <span><img src="https://skillicons.dev/icons?i=jira" /></span>
-  </a>
+  
+  [<img src="https://skillicons.dev/icons?i=flutter" />](https://flutter.dev/)
+  [<img src="https://skillicons.dev/icons?i=dart" />](https://dart.dev/)
+  [<img src="https://skillicons.dev/icons?i=postgresql" />](https://www.postgresql.org/)
+  [<img src="https://skillicons.dev/icons?i=github" />](https://github.com/)
+  [<img src="https://skillicons.dev/icons?i=figma" />](https://www.figma.com/)
+  [<img src="https://skillicons.dev/icons?i=git" />](https://git-scm.com/)
+  [<img src="https://skillicons.dev/icons?i=cs" />](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+  [<img src="https://skillicons.dev/icons?i=dotnet" />](https://dotnet.microsoft.com/)
+  [<img src="https://skillicons.dev/icons?i=jira" />](https://www.atlassian.com/software/jira)
+
 </p>
 
 <h2 align="center">🚀 Principais Projetos</h2>
