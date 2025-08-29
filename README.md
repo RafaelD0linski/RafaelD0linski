@@ -24,17 +24,21 @@
 
 <h2 align="center">🧠 Stack Tecnológica</h2>
 
-<p align="center">
-  [<img src="https://skillicons.dev/icons?i=flutter" />](https://flutter.dev/)
-  [<img src="https://skillicons.dev/icons?i=dart" />](https://dart.dev/)
-  [<img src="https://skillicons.dev/icons?i=postgresql" />](https://www.postgresql.org/)
-  [<img src="https://skillicons.dev/icons?i=github" />](https://github.com/)
-  [<img src="https://skillicons.dev/icons?i=figma" />](https://www.figma.com/)
-  [<img src="https://skillicons.dev/icons?i=git" />](https://git-scm.com/)
-  [<img src="https://skillicons.dev/icons?i=cs" />](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-  [<img src="https://skillicons.dev/icons?i=dotnet" />](https://dotnet.microsoft.com/)
-  [<img src="https://skillicons.dev/icons?i=jira" />](https://www.atlassian.com/software/jira)
-</p>
+<div align="center">
+
+[<img src="https://skillicons.dev/icons?i=flutter" />](https://flutter.dev/)
+[<img src="https://skillicons.dev/icons?i=dart" />](https://dart.dev/)
+[<img src="https://skillicons.dev/icons?i=postgresql" />](https://www.postgresql.org/)
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/)
+[<img src="https://skillicons.dev/icons?i=figma" />](https://www.figma.com/)
+[<img src="https://skillicons.dev/icons?i=git" />](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=cs" />](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[<img src="https://skillicons.dev/icons?i=dotnet" />](https://dotnet.microsoft.com/)
+[<img src="https://skillicons.dev/icons?i=jira" />](https://www.atlassian.com/software/jira)
+
+</div>
+
+
 
 <h2 align="center">🚀 Principais Projetos</h2>
 <div align="center">
