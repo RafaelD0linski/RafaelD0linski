@@ -24,7 +24,7 @@
 
 <h2 align="center">🧠 Stack Tecnológica</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,postgresql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,postgresql,github,figma,git,cs" />
 </p>
 
 <h2 align="center">🚀 Principais Projetos</h2>
