@@ -42,7 +42,7 @@
   <p>
     Você pode acompanhar meus principais projetos no meu site pessoal.<br>
   </p>
-  <a href="https://principais-porjetos.vercel.app/" target="_blank">
+  <a href="[https://principais-porjetos.vercel.app/](https://rafael-portfolio-wine.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Acessar meus projetos-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Meus Projetos" />
   </a>
 </div>
