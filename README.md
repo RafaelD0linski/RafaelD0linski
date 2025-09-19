@@ -36,16 +36,6 @@
 [<img src="https://skillicons.dev/icons?i=dotnet" />](https://dotnet.microsoft.com/)
 [<img src="https://skillicons.dev/icons?i=jira" />](https://www.atlassian.com/software/jira)
 
-</div>
-<h2 align="center">🚀 Principais Projetos</h2>
-<div align="center">
-  <p>
-    Você pode acompanhar meus principais projetos no meu site pessoal.<br>
-  </p>
-<a href="https://rafael-portfolio-wine.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀 Acessar meus projetos-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Meus Projetos" />
-</a>
-</div>
 
 <h2 align="center">🌍 Onde me encontrar</h2>
 
