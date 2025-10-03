@@ -1,9 +1,16 @@
-<h1 align="center">👨‍💻 Rafael D0linski</h1>
+<h1 align="center">👨‍💻 Rafael Dolinski</h1>
 <p align="center">
-  <i>Desenvolvedor apaixonado por tecnologia e soluções criativas.<br>
-  Sempre em evolução, explorando novas ferramentas e colaborando em projetos reais e desafiadores.</i>
+  <i>
+    Developer constantly evolving, already working in the programming field.<br>
+    Passionate about technology, continuous learning, and creative solutions that make an impact.<br>
+    I enjoy taking on real challenges — in projects, hackathons, or daily work —<br>
+    always striving to combine practice and innovation.
+  </i>
 </p>
 
+<p align="center">
+  🌎 <a href="https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/seu-usuario/seu-repo">Ler em Português</a>
+</p>
 <div align="center">
   <!-- Estatísticas do GitHub -->
   <picture>
