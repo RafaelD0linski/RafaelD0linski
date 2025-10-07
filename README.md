@@ -8,11 +8,6 @@
   </i>
 </p>
 
-<p align="center">
-  🌎 <a href="https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/seu-usuario/seu-repo">Ler em Português</a>
-</p>
-<div align="center">
-  <!-- Estatísticas do GitHub -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
