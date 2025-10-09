@@ -8,7 +8,6 @@
   </i>
 </p>
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=RAFAELDOLINSKI)
 
 <p align="center">
   🌎 <a href="https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/seu-usuario/seu-repo">Ler em Português</a>
