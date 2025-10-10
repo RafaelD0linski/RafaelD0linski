@@ -1,4 +1,9 @@
 <h1 align="center">👨‍💻 Rafael Dolinski</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RafaelD0linski&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
 <p align="center">
   <i>
     Developer constantly evolving, already working in the programming field.<br>
