@@ -47,8 +47,7 @@
 
 <div align="center">
 
-[<img src="https://skillicons.dev/icons?i=flutter" />](https://flutter.dev/)
-[<img src="https://skillicons.dev/icons?i=dart" />](https://dart.dev/)
+
 [<img src="https://skillicons.dev/icons?i=postgresql" />](https://www.postgresql.org/)
 [<img src="https://skillicons.dev/icons?i=github" />](https://github.com/)
 [<img src="https://skillicons.dev/icons?i=git" />](https://git-scm.com/)
