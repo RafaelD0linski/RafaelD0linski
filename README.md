@@ -7,9 +7,11 @@
 <p align="center">
   <i>
     Developer constantly evolving, already working in the programming field.<br>
-    Passionate about technology, continuous learning, and creative solutions that make an impact.<br>
-    I enjoy taking on real challenges — in projects, hackathons, or daily work —<br>
-    always striving to combine practice and innovation.
+Developer constantly evolving in software engineering, with hands-on C#/.NET experience and actively mastering Java Spring Boot.
+
+Passionate about technology, continuous learning, and creative solutions that deliver real impact.
+
+Tackles challenges in projects, hackathons, and daily work — blending practical skills in APIs, unit testing, Docker, and React with innovation.
   </i>
 </p>
 
