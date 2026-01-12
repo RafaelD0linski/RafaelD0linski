@@ -6,12 +6,8 @@
 
 <p align="center">
   <i>
-    Developer constantly evolving, already working in the programming field.<br>
-Developer constantly evolving in software engineering, with hands-on C#/.NET experience and actively mastering Java Spring Boot.
-
-Passionate about technology, continuous learning, and creative solutions that deliver real impact.
-
-Tackles challenges in projects, hackathons, and daily work — blending practical skills in APIs, unit testing, Docker, and React with innovation.
+    Developer constantly evolving in software engineering, with hands-on C#/.NET experience and actively mastering <b>Java Spring Boot</b>.<br>
+    Passionate about technology, continuous learning, and creative solutions that deliver real impact through <b>MongoDB CRUD, JWT Auth, Docker</b>, unit testing, and <b>React</b>.
   </i>
 </p>
 
@@ -24,21 +20,9 @@ Tackles challenges in projects, hackathons, and daily work — blending practica
 <div align="center">
 
 ### 📊 GitHub Stats
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=radical" width="420" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=radical" width="320" />
 
-<picture>
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelD0linski&show_icons=true&hide_border=true&theme=default" width="420" />
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=radical" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelD0linski&layout=compact&hide_border=true&theme=default" width="320" />
-</picture>
-
-
-<br>
 <sub>⚡ Stats carregam conforme o servidor da Vercel. Se não aparecerem, atualize a página.</sub>
 
 </div>
@@ -48,16 +32,20 @@ Tackles challenges in projects, hackathons, and daily work — blending practica
 <h2 align="center">🧠 Stack Tecnológica</h2>
 
 <div align="center">
-
-
-[<img src="https://skillicons.dev/icons?i=postgresql" />](https://www.postgresql.org/)
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/)
-[<img src="https://skillicons.dev/icons?i=git" />](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=figma" />](https://www.figma.com/)
-[<img src="https://skillicons.dev/icons?i=cs" />](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-[<img src="https://skillicons.dev/icons?i=dotnet" />](https://dotnet.microsoft.com/)
-[<img src="https://skillicons.dev/icons?i=jira" />](https://www.atlassian.com/software/jira)
-
+  <img src="https://skillicons.dev/icons?i=java" height="50" title="Java" /> 
+  <img src="https://skillicons.dev/icons?i=springboot" height="50" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=junit" height="50" title="JUnit" />
+  <img src="https://skillicons.dev/icons?i=mockito" height="50" title="Mockito" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" title="React" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" title="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" title="Git" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=jira" height="50" title="Jira" />
 </div>
 
 ---
@@ -65,11 +53,15 @@ Tackles challenges in projects, hackathons, and daily work — blending practica
 <h2 align="center">🌍 Onde me encontrar</h2>
 
 <div align="center">
-
-[<img src="https://skillicons.dev/icons?i=linkedin" height="50" />](https://www.linkedin.com/in/rafael-dolinski/)
-[<img src="https://skillicons.dev/icons?i=gmail" height="50" />](mailto:rafaeldolinski14@gmail.com)
-[<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="50" />](https://wa.me/5546991382310)
-
+  <a href="https://www.linkedin.com/in/rafael-dolinski/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="mailto:rafaeldolinski14@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  <a href="https://wa.me/5546991382310">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="50" />
+  </a>
 </div>
 
 ---
