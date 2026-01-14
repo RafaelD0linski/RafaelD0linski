@@ -1,3 +1,9 @@
+<p align="center">
+  🌎 <a href="https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/RafaelD0linski">
+    Ler em Português
+  </a>
+</p>
+
 <h1 align="center">👨‍💻 Rafael Dolinski</h1>
 
 <p align="center">
@@ -11,13 +17,6 @@
     <b>REST APIs, MongoDB CRUD, JWT Authentication, Docker</b>, unit testing, and <b>React</b>.
   </i>
 </p>
-
-<p align="center">
-  🌎 <a href="https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/RafaelD0linski">
-    Ler em Português
-  </a>
-</p>
-
 
 ## 🧠 Tech Stack
 
