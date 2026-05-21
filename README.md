@@ -46,7 +46,6 @@
 
 </div>
 
-
 ## 🚀 What I Work With
 
 - Development of **RESTful APIs**
@@ -58,20 +57,33 @@
 - Version control using **Git & GitHub**
 - Clean code, best practices & continuous improvement
 
+## 🌟 Featured Products
 
-## 📌 Featured Projects
+🔹 **Sistema Vexa** — _Complete ERP_  
+A full **ERP system** developed for **clothing, footwear, and accessories stores**, offering comprehensive management of sales, inventory, customers, and financial reports in a robust and scalable platform.  
+🌐 [sistemavexa.com](https://sistemavexa.com/)
+
+🔹 **Vexa Finanças** — _In development_  
+An application focused on **personal finance management**, allowing users to track income, expenses, investments, and financial goals in an intuitive and organized way.  
+🌐 [vexafinancas.com.br](https://vexafinancas.com.br/)
+
+🔹 **Vexa Senhas**  
+An application focused on **secure password management**, providing encrypted storage and convenient access to user credentials.  
+🌐 [vexasenhas.com](https://vexasenhas.com/login)
+
+## 📌 Other Projects
 
 🔹 **SalesStockAPI**  
 RESTful API built with **Java Spring Boot** for sales and inventory management, featuring **JWT authentication**, CRUD operations, and database integration.  
-🔗 https://github.com/RafaelD0linski/SalesStockAPI  
+🔗 https://github.com/RafaelD0linski/SalesStockAPI
 
 🔹 **SalesStock Dashboard**  
 Frontend dashboard developed with **React**, integrated with the SalesStockAPI to visualize sales and stock data.  
-🔗 https://github.com/RafaelD0linski/salesstock-dashboard-frontend  
+🔗 https://github.com/RafaelD0linski/salesstock-dashboard-frontend
 
 🔹 **Task Manager**  
 Task management application focused on backend fundamentals, including CRUD operations and clean code practices.  
-🔗 https://github.com/RafaelD0linski/Gerenciador-de-Tarefas  
+🔗 https://github.com/RafaelD0linski/Gerenciador-de-Tarefas
 
 ## 🌍 Where to Find Me
 
@@ -87,7 +99,6 @@ Task management application focused on backend fundamentals, including CRUD oper
   </a>
 </div>
 
-
 <p align="center">
-  <i>“Always learning, always building.”</i>
+  <i>"Always learning, always building."</i>
 </p>
